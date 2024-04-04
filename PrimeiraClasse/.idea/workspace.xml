@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3308b042-8891-4798-86fb-dc8f85965ccd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PrimeiraClasse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Estudos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +36,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Estudos.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.Perfil.executor": "Run",
     "Application.PrimeiraClasse.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -62,7 +62,7 @@
       <option name="presentableId" value="Default" />
       <updated>1712188270465</updated>
       <workItem from="1712188271574" duration="453000" />
-      <workItem from="1712188734185" duration="336000" />
+      <workItem from="1712188734185" duration="686000" />
     </task>
     <servers />
   </component>
