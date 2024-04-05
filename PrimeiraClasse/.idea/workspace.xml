@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3308b042-8891-4798-86fb-dc8f85965ccd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Subtracao.java" afterDir="false" />
-    </list>
+    <list default="true" id="3308b042-8891-4798-86fb-dc8f85965ccd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,7 +62,7 @@
       <option name="presentableId" value="Default" />
       <updated>1712188270465</updated>
       <workItem from="1712188271574" duration="453000" />
-      <workItem from="1712188734185" duration="1038000" />
+      <workItem from="1712188734185" duration="2361000" />
     </task>
     <servers />
   </component>
