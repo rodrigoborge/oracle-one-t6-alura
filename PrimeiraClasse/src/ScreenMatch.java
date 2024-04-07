@@ -11,7 +11,5 @@ public class ScreenMatch {
 
         double notaFilme = 8.1F;
         System.out.println("Nota: " + notaFilme);
-        
-
     }
 }
