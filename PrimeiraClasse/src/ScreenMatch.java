@@ -12,5 +12,22 @@ public class ScreenMatch {
         double notaFilme = 8.1F;
         System.out.println("Nota: " + notaFilme);
 
+        //Media calculada pelas três notas da Jaque, do paulo e Suellen
+        double media = (9.8 + 6.3 + 8.9) / 3;
+        System.out.println("Media: " + media);
+
+        /*As aspas triplas fazem o texto ficar formatado de acordo com os
+        espaçamentos dados no código*/
+        String sinopse;
+        sinopse = """
+                    Filme: Top Gun
+                    Sinopse: Filme de aventura com galá dos anos 80.
+                    Muito bom!
+                    Ano de lançamento:
+                  """ + anoLancamento;
+        System.out.println(sinopse);
+
+
+
     }
 }
