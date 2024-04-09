@@ -18,8 +18,7 @@ public class ScreenMatch {
 
         /*As aspas triplas fazem o texto ficar formatado de acordo com os
         espaçamentos dados no código*/
-        String sinopse;
-        sinopse = """
+        String sinopse = """
                     Filme: Top Gun
                     Sinopse: Filme de aventura com galá dos anos 80.
                     Muito bom!
