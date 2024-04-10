@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3308b042-8891-4798-86fb-dc8f85965ccd" name="Changes" comment="atualizacao string sinopse">
-      <change afterPath="$PROJECT_DIR$/src/FormadoString.java" afterDir="false" />
+    <list default="true" id="3308b042-8891-4798-86fb-dc8f85965ccd" name="Changes" comment="Formato de string">
+      <change afterPath="$PROJECT_DIR$/src/CalculaIMC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +42,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CalculaIMC.executor": "Run",
     "Application.Estudos.executor": "Run",
     "Application.FormadoString.executor": "Run",
     "Application.Main.executor": "Run",
@@ -77,7 +79,7 @@
       <workItem from="1712620235434" duration="59000" />
       <workItem from="1712620303665" duration="832000" />
       <workItem from="1712621457699" duration="190000" />
-      <workItem from="1712707022406" duration="673000" />
+      <workItem from="1712707022406" duration="2581000" />
     </task>
     <task id="LOCAL-00001" summary="atualizacao string sinopse">
       <option name="closed" value="true" />
@@ -87,7 +89,31 @@
       <option name="project" value="LOCAL" />
       <updated>1712707088729</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Formato de string">
+      <option name="closed" value="true" />
+      <created>1712707719540</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712707719541</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Formato de string">
+      <option name="closed" value="true" />
+      <created>1712707760901</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712707760901</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Formato de string">
+      <option name="closed" value="true" />
+      <created>1712707950927</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712707950927</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +132,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="atualizacao string sinopse" />
-    <option name="LAST_COMMIT_MESSAGE" value="atualizacao string sinopse" />
+    <MESSAGE value="Formato de string" />
+    <option name="LAST_COMMIT_MESSAGE" value="Formato de string" />
   </component>
 </project>
