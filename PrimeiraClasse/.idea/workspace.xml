@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3308b042-8891-4798-86fb-dc8f85965ccd" name="Changes" comment="Calculadora IMC">
-      <change afterPath="$PROJECT_DIR$/src/ConversorTemperatura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesaficoPrecoOriginal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesafioCasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesafioConcat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesafioMedia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesafioPrecoProduto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesafioValorDolares.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ScreenMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ScreenMatch.java" afterDir="false" />
+    <list default="true" id="3308b042-8891-4798-86fb-dc8f85965ccd" name="Changes" comment="Atualizacao xml">
+      <change beforePath="$PROJECT_DIR$/src/DesafioCasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesafioCasting.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +87,7 @@
       <workItem from="1712620303665" duration="832000" />
       <workItem from="1712621457699" duration="190000" />
       <workItem from="1712707022406" duration="2819000" />
-      <workItem from="1712875625968" duration="3410000" />
+      <workItem from="1712875625968" duration="3733000" />
     </task>
     <task id="LOCAL-00001" summary="atualizacao string sinopse">
       <option name="closed" value="true" />
@@ -137,7 +129,79 @@
       <option name="project" value="LOCAL" />
       <updated>1712709719337</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Calculo da media">
+      <option name="closed" value="true" />
+      <created>1712879171060</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1712879171060</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Desafio aula 2: Valor em dolares">
+      <option name="closed" value="true" />
+      <created>1712879196234</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1712879196234</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Desafio aula 2: Preço de Produto">
+      <option name="closed" value="true" />
+      <created>1712879208168</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1712879208168</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Desafio aula 2: Média">
+      <option name="closed" value="true" />
+      <created>1712879220370</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1712879220370</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Desafio aula 2: Concatenaçao de letra com palavra">
+      <option name="closed" value="true" />
+      <created>1712879242781</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1712879242781</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Desafio aula 2: Conversao de double para int">
+      <option name="closed" value="true" />
+      <created>1712879283993</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1712879283993</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Desafio aula 2: Preço original">
+      <option name="closed" value="true" />
+      <created>1712879294689</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1712879294689</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Desafio aula 2: Conversor de temperatura">
+      <option name="closed" value="true" />
+      <created>1712879324277</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1712879324277</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Atualizacao xml">
+      <option name="closed" value="true" />
+      <created>1712879351340</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1712879351340</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,6 +222,15 @@
     <MESSAGE value="atualizacao string sinopse" />
     <MESSAGE value="Formato de string" />
     <MESSAGE value="Calculadora IMC" />
-    <option name="LAST_COMMIT_MESSAGE" value="Calculadora IMC" />
+    <MESSAGE value="Calculo da media" />
+    <MESSAGE value="Desafio aula 2: Valor em dolares" />
+    <MESSAGE value="Desafio aula 2: Preço de Produto" />
+    <MESSAGE value="Desafio aula 2: Média" />
+    <MESSAGE value="Desafio aula 2: Concatenaçao de letra com palavra" />
+    <MESSAGE value="Desafio aula 2: Conversao de double para int" />
+    <MESSAGE value="Desafio aula 2: Preço original" />
+    <MESSAGE value="Desafio aula 2: Conversor de temperatura" />
+    <MESSAGE value="Atualizacao xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Atualizacao xml" />
   </component>
 </project>
