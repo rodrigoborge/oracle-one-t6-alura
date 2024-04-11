@@ -26,7 +26,7 @@ public class ScreenMatch {
                   """ + anoLancamento;
         System.out.println(sinopse);
 
-
-
+        int classificacao = (int) (media / 2);
+        System.out.println("A lassificação desse filme é de: "+ classificacao);
     }
 }
