@@ -1,6 +1,10 @@
+import java.util.Scanner;
+
 public class DiaSemana {
     public static void main(String[] args) {
-        int dia = 3;
+        Scanner leituraDia = new Scanner(System.in);
+        System.out.println("Digite um número de 1 à 7: ");
+        int dia = leituraDia.nextInt();
         String nomeDia;
 
         switch (dia) {
@@ -29,6 +33,7 @@ public class DiaSemana {
                 nomeDia = "Valor inválido";
                 break;
         }
+
         System.out.println("O dia " + dia + " é " + nomeDia);
     }
 }
