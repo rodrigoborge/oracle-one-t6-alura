@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3308b042-8891-4798-86fb-dc8f85965ccd" name="Changes" comment="Atualizacao xml">
-      <change beforePath="$PROJECT_DIR$/src/DesafioCasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesafioCasting.java" afterDir="false" />
+    <list default="true" id="3308b042-8891-4798-86fb-dc8f85965ccd" name="Changes" comment="Aula 04: Entrada de dados">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DiaSemana.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DiaSemana.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +43,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.CalculaIMC.executor": "Run",
+    "Application.Condicional.executor": "Run",
     "Application.ConversorTemperatura.executor": "Run",
     "Application.DesaficoPrecoOriginal.executor": "Run",
     "Application.DesafioCasting.executor": "Run",
@@ -49,8 +51,10 @@
     "Application.DesafioMedia.executor": "Run",
     "Application.DesafioPrecoProduto.executor": "Run",
     "Application.DesafioValorDolares.executor": "Run",
+    "Application.DiaSemana.executor": "Run",
     "Application.Estudos.executor": "Run",
     "Application.FormadoString.executor": "Run",
+    "Application.Leitura.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Perfil.executor": "Run",
     "Application.PrimeiraClasse.executor": "Run",
@@ -87,7 +91,11 @@
       <workItem from="1712620303665" duration="832000" />
       <workItem from="1712621457699" duration="190000" />
       <workItem from="1712707022406" duration="2819000" />
-      <workItem from="1712875625968" duration="3733000" />
+      <workItem from="1712875625968" duration="4104000" />
+      <workItem from="1712880557831" duration="58000" />
+      <workItem from="1712880623814" duration="359000" />
+      <workItem from="1712880994363" duration="275000" />
+      <workItem from="1712958499976" duration="2333000" />
     </task>
     <task id="LOCAL-00001" summary="atualizacao string sinopse">
       <option name="closed" value="true" />
@@ -201,7 +209,55 @@
       <option name="project" value="LOCAL" />
       <updated>1712879351340</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Desafio aula 2: atualizaçao soma valor1 + valor2 com casting para  int">
+      <option name="closed" value="true" />
+      <created>1712879440716</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1712879440716</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Desafio aula 2: exercicio média">
+      <option name="closed" value="true" />
+      <created>1712879614646</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1712879614646</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Atualizaçao xml">
+      <option name="closed" value="true" />
+      <created>1712879625962</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1712879625962</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Aula 04: Condicional IF">
+      <option name="closed" value="true" />
+      <created>1712960588301</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1712960588301</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Aula 04: Dia da Semana com switch case">
+      <option name="closed" value="true" />
+      <created>1712960611385</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1712960611385</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Aula 04: Entrada de dados">
+      <option name="closed" value="true" />
+      <created>1712960629527</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1712960629527</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -231,6 +287,12 @@
     <MESSAGE value="Desafio aula 2: Preço original" />
     <MESSAGE value="Desafio aula 2: Conversor de temperatura" />
     <MESSAGE value="Atualizacao xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Atualizacao xml" />
+    <MESSAGE value="Desafio aula 2: atualizaçao soma valor1 + valor2 com casting para  int" />
+    <MESSAGE value="Desafio aula 2: exercicio média" />
+    <MESSAGE value="Atualizaçao xml" />
+    <MESSAGE value="Aula 04: Condicional IF" />
+    <MESSAGE value="Aula 04: Dia da Semana com switch case" />
+    <MESSAGE value="Aula 04: Entrada de dados" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aula 04: Entrada de dados" />
   </component>
 </project>
