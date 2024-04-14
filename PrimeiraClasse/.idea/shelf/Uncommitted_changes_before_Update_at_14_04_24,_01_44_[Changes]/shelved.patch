@@ -1,0 +1,246 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"3308b042-8891-4798-86fb-dc8f85965ccd\" name=\"Changes\" comment=\"Atualizacao xml\">\n      <change beforePath=\"$PROJECT_DIR$/src/DesafioCasting.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/DesafioCasting.java\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Class\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"PUSH_AUTO_UPDATE\" value=\"true\" />\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$/..\" />\n    <option name=\"UPDATE_TYPE\" value=\"REBASE\" />\n  </component>\n  <component name=\"HighlightingSettingsPerFile\">\n    <setting file=\"file://$PROJECT_DIR$/src/ScreenMatch.java\" root0=\"FORCE_HIGHLIGHTING\" />\n  </component>\n  <component name=\"ProjectColorInfo\">{\n  &quot;customColor&quot;: &quot;&quot;,\n  &quot;associatedIndex&quot;: 3\n}</component>\n  <component name=\"ProjectId\" id=\"2ebzs0vMQTXaSfjOY2b6nG6X6Iy\" />\n  <component name=\"ProjectLevelVcsManager\">\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\n  </component>\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"Application.CalculaIMC.executor\": \"Run\",\n    \"Application.ConversorTemperatura.executor\": \"Run\",\n    \"Application.DesaficoPrecoOriginal.executor\": \"Run\",\n    \"Application.DesafioCasting.executor\": \"Run\",\n    \"Application.DesafioConcat.executor\": \"Run\",\n    \"Application.DesafioMedia.executor\": \"Run\",\n    \"Application.DesafioPrecoProduto.executor\": \"Run\",\n    \"Application.DesafioValorDolares.executor\": \"Run\",\n    \"Application.Estudos.executor\": \"Run\",\n    \"Application.FormadoString.executor\": \"Run\",\n    \"Application.Main.executor\": \"Run\",\n    \"Application.Perfil.executor\": \"Run\",\n    \"Application.PrimeiraClasse.executor\": \"Run\",\n    \"Application.ScreenMatch.executor\": \"Run\",\n    \"Application.Soma.executor\": \"Run\",\n    \"Application.Subtracao.executor\": \"Run\",\n    \"Application.conversorTemperatura.executor\": \"Run\",\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"git-widget-placeholder\": \"master\",\n    \"ignore.virus.scanning.warn.message\": \"true\",\n    \"kotlin-language-version-configured\": \"true\",\n    \"node.js.detected.package.eslint\": \"true\",\n    \"node.js.detected.package.tslint\": \"true\",\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\n    \"nodejs_package_manager_path\": \"npm\",\n    \"settings.editor.selected.configurable\": \"settings.sync\",\n    \"vue.rearranger.settings.migration\": \"true\"\n  }\n}]]></component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"3308b042-8891-4798-86fb-dc8f85965ccd\" name=\"Changes\" comment=\"\" />\n      <created>1712188270465</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1712188270465</updated>\n      <workItem from=\"1712188271574\" duration=\"453000\" />\n      <workItem from=\"1712188734185\" duration=\"2361000\" />\n      <workItem from=\"1712280211712\" duration=\"1404000\" />\n      <workItem from=\"1712620235434\" duration=\"59000\" />\n      <workItem from=\"1712620303665\" duration=\"832000\" />\n      <workItem from=\"1712621457699\" duration=\"190000\" />\n      <workItem from=\"1712707022406\" duration=\"2819000\" />\n      <workItem from=\"1712875625968\" duration=\"3733000\" />\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"atualizacao string sinopse\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1712707088729</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1712707088729</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"Formato de string\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1712707719540</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1712707719541</updated>\n    </task>\n    <task id=\"LOCAL-00003\" summary=\"Formato de string\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1712707760901</created>\n      <option name=\"number\" value=\"00003\" />\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1712707760901</updated>\n    </task>\n    <task id=\"LOCAL-00004\" summary=\"Formato de string\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1712707950927</created>\n      <option name=\"number\" value=\"00004\" />\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1712707950927</updated>\n    </task>\n    <task id=\"LOCAL-00005\" summary=\"Calculadora IMC\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1712709719337</created>\n      <option name=\"number\" value=\"00005\" />\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1712709719337</updated>\n    </task>\n    <task id=\"LOCAL-00006\" summary=\"Calculo da media\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1712879171060</created>\n      <option name=\"number\" value=\"00006\" />\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1712879171060</updated>\n    </task>\n    <task id=\"LOCAL-00007\" summary=\"Desafio aula 2: Valor em dolares\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1712879196234</created>\n      <option name=\"number\" value=\"00007\" />\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1712879196234</updated>\n    </task>\n    <task id=\"LOCAL-00008\" summary=\"Desafio aula 2: Preço de Produto\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1712879208168</created>\n      <option name=\"number\" value=\"00008\" />\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1712879208168</updated>\n    </task>\n    <task id=\"LOCAL-00009\" summary=\"Desafio aula 2: Média\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1712879220370</created>\n      <option name=\"number\" value=\"00009\" />\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1712879220370</updated>\n    </task>\n    <task id=\"LOCAL-00010\" summary=\"Desafio aula 2: Concatenaçao de letra com palavra\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1712879242781</created>\n      <option name=\"number\" value=\"00010\" />\n      <option name=\"presentableId\" value=\"LOCAL-00010\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1712879242781</updated>\n    </task>\n    <task id=\"LOCAL-00011\" summary=\"Desafio aula 2: Conversao de double para int\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1712879283993</created>\n      <option name=\"number\" value=\"00011\" />\n      <option name=\"presentableId\" value=\"LOCAL-00011\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1712879283993</updated>\n    </task>\n    <task id=\"LOCAL-00012\" summary=\"Desafio aula 2: Preço original\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1712879294689</created>\n      <option name=\"number\" value=\"00012\" />\n      <option name=\"presentableId\" value=\"LOCAL-00012\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1712879294689</updated>\n    </task>\n    <task id=\"LOCAL-00013\" summary=\"Desafio aula 2: Conversor de temperatura\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1712879324277</created>\n      <option name=\"number\" value=\"00013\" />\n      <option name=\"presentableId\" value=\"LOCAL-00013\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1712879324277</updated>\n    </task>\n    <task id=\"LOCAL-00014\" summary=\"Atualizacao xml\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1712879351340</created>\n      <option name=\"number\" value=\"00014\" />\n      <option name=\"presentableId\" value=\"LOCAL-00014\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1712879351340</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"15\" />\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"atualizacao string sinopse\" />\n    <MESSAGE value=\"Formato de string\" />\n    <MESSAGE value=\"Calculadora IMC\" />\n    <MESSAGE value=\"Calculo da media\" />\n    <MESSAGE value=\"Desafio aula 2: Valor em dolares\" />\n    <MESSAGE value=\"Desafio aula 2: Preço de Produto\" />\n    <MESSAGE value=\"Desafio aula 2: Média\" />\n    <MESSAGE value=\"Desafio aula 2: Concatenaçao de letra com palavra\" />\n    <MESSAGE value=\"Desafio aula 2: Conversao de double para int\" />\n    <MESSAGE value=\"Desafio aula 2: Preço original\" />\n    <MESSAGE value=\"Desafio aula 2: Conversor de temperatura\" />\n    <MESSAGE value=\"Atualizacao xml\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Atualizacao xml\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision d561c56fed9a352688da9d1c180ef8532b5bff0a)
++++ b/.idea/workspace.xml	(date 1712881426152)
+@@ -4,8 +4,8 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="3308b042-8891-4798-86fb-dc8f85965ccd" name="Changes" comment="Atualizacao xml">
+-      <change beforePath="$PROJECT_DIR$/src/DesafioCasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesafioCasting.java" afterDir="false" />
++    <list default="true" id="3308b042-8891-4798-86fb-dc8f85965ccd" name="Changes" comment="">
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -20,9 +20,7 @@
+     </option>
+   </component>
+   <component name="Git.Settings">
+-    <option name="PUSH_AUTO_UPDATE" value="true" />
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+-    <option name="UPDATE_TYPE" value="REBASE" />
+   </component>
+   <component name="HighlightingSettingsPerFile">
+     <setting file="file://$PROJECT_DIR$/src/ScreenMatch.java" root0="FORCE_HIGHLIGHTING" />
+@@ -39,39 +37,29 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "Application.CalculaIMC.executor": "Run",
+-    "Application.ConversorTemperatura.executor": "Run",
+-    "Application.DesaficoPrecoOriginal.executor": "Run",
+-    "Application.DesafioCasting.executor": "Run",
+-    "Application.DesafioConcat.executor": "Run",
+-    "Application.DesafioMedia.executor": "Run",
+-    "Application.DesafioPrecoProduto.executor": "Run",
+-    "Application.DesafioValorDolares.executor": "Run",
+-    "Application.Estudos.executor": "Run",
+-    "Application.FormadoString.executor": "Run",
+-    "Application.Main.executor": "Run",
+-    "Application.Perfil.executor": "Run",
+-    "Application.PrimeiraClasse.executor": "Run",
+-    "Application.ScreenMatch.executor": "Run",
+-    "Application.Soma.executor": "Run",
+-    "Application.Subtracao.executor": "Run",
+-    "Application.conversorTemperatura.executor": "Run",
+-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "git-widget-placeholder": "master",
+-    "ignore.virus.scanning.warn.message": "true",
+-    "kotlin-language-version-configured": "true",
+-    "node.js.detected.package.eslint": "true",
+-    "node.js.detected.package.tslint": "true",
+-    "node.js.selected.package.eslint": "(autodetect)",
+-    "node.js.selected.package.tslint": "(autodetect)",
+-    "nodejs_package_manager_path": "npm",
+-    "settings.editor.selected.configurable": "settings.sync",
+-    "vue.rearranger.settings.migration": "true"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;Application.Estudos.executor&quot;: &quot;Run&quot;,
++    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
++    &quot;Application.Perfil.executor&quot;: &quot;Run&quot;,
++    &quot;Application.PrimeiraClasse.executor&quot;: &quot;Run&quot;,
++    &quot;Application.ScreenMatch.executor&quot;: &quot;Run&quot;,
++    &quot;Application.Soma.executor&quot;: &quot;Run&quot;,
++    &quot;Application.Subtracao.executor&quot;: &quot;Run&quot;,
++    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
++    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
++    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
++    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
++    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
++    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
++    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
++    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
++    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
++    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+   <component name="TaskManager">
+     <task active="true" id="Default" summary="Default task">
+@@ -86,151 +74,10 @@
+       <workItem from="1712620235434" duration="59000" />
+       <workItem from="1712620303665" duration="832000" />
+       <workItem from="1712621457699" duration="190000" />
+-      <workItem from="1712707022406" duration="2819000" />
+-      <workItem from="1712875625968" duration="3733000" />
+-    </task>
+-    <task id="LOCAL-00001" summary="atualizacao string sinopse">
+-      <option name="closed" value="true" />
+-      <created>1712707088729</created>
+-      <option name="number" value="00001" />
+-      <option name="presentableId" value="LOCAL-00001" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1712707088729</updated>
+-    </task>
+-    <task id="LOCAL-00002" summary="Formato de string">
+-      <option name="closed" value="true" />
+-      <created>1712707719540</created>
+-      <option name="number" value="00002" />
+-      <option name="presentableId" value="LOCAL-00002" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1712707719541</updated>
+-    </task>
+-    <task id="LOCAL-00003" summary="Formato de string">
+-      <option name="closed" value="true" />
+-      <created>1712707760901</created>
+-      <option name="number" value="00003" />
+-      <option name="presentableId" value="LOCAL-00003" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1712707760901</updated>
+-    </task>
+-    <task id="LOCAL-00004" summary="Formato de string">
+-      <option name="closed" value="true" />
+-      <created>1712707950927</created>
+-      <option name="number" value="00004" />
+-      <option name="presentableId" value="LOCAL-00004" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1712707950927</updated>
+-    </task>
+-    <task id="LOCAL-00005" summary="Calculadora IMC">
+-      <option name="closed" value="true" />
+-      <created>1712709719337</created>
+-      <option name="number" value="00005" />
+-      <option name="presentableId" value="LOCAL-00005" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1712709719337</updated>
+-    </task>
+-    <task id="LOCAL-00006" summary="Calculo da media">
+-      <option name="closed" value="true" />
+-      <created>1712879171060</created>
+-      <option name="number" value="00006" />
+-      <option name="presentableId" value="LOCAL-00006" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1712879171060</updated>
+-    </task>
+-    <task id="LOCAL-00007" summary="Desafio aula 2: Valor em dolares">
+-      <option name="closed" value="true" />
+-      <created>1712879196234</created>
+-      <option name="number" value="00007" />
+-      <option name="presentableId" value="LOCAL-00007" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1712879196234</updated>
+-    </task>
+-    <task id="LOCAL-00008" summary="Desafio aula 2: Preço de Produto">
+-      <option name="closed" value="true" />
+-      <created>1712879208168</created>
+-      <option name="number" value="00008" />
+-      <option name="presentableId" value="LOCAL-00008" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1712879208168</updated>
+-    </task>
+-    <task id="LOCAL-00009" summary="Desafio aula 2: Média">
+-      <option name="closed" value="true" />
+-      <created>1712879220370</created>
+-      <option name="number" value="00009" />
+-      <option name="presentableId" value="LOCAL-00009" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1712879220370</updated>
+     </task>
+-    <task id="LOCAL-00010" summary="Desafio aula 2: Concatenaçao de letra com palavra">
+-      <option name="closed" value="true" />
+-      <created>1712879242781</created>
+-      <option name="number" value="00010" />
+-      <option name="presentableId" value="LOCAL-00010" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1712879242781</updated>
+-    </task>
+-    <task id="LOCAL-00011" summary="Desafio aula 2: Conversao de double para int">
+-      <option name="closed" value="true" />
+-      <created>1712879283993</created>
+-      <option name="number" value="00011" />
+-      <option name="presentableId" value="LOCAL-00011" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1712879283993</updated>
+-    </task>
+-    <task id="LOCAL-00012" summary="Desafio aula 2: Preço original">
+-      <option name="closed" value="true" />
+-      <created>1712879294689</created>
+-      <option name="number" value="00012" />
+-      <option name="presentableId" value="LOCAL-00012" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1712879294689</updated>
+-    </task>
+-    <task id="LOCAL-00013" summary="Desafio aula 2: Conversor de temperatura">
+-      <option name="closed" value="true" />
+-      <created>1712879324277</created>
+-      <option name="number" value="00013" />
+-      <option name="presentableId" value="LOCAL-00013" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1712879324277</updated>
+-    </task>
+-    <task id="LOCAL-00014" summary="Atualizacao xml">
+-      <option name="closed" value="true" />
+-      <created>1712879351340</created>
+-      <option name="number" value="00014" />
+-      <option name="presentableId" value="LOCAL-00014" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1712879351340</updated>
+-    </task>
+-    <option name="localTasksCounter" value="15" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+     <option name="version" value="3" />
+   </component>
+-  <component name="Vcs.Log.Tabs.Properties">
+-    <option name="TAB_STATES">
+-      <map>
+-        <entry key="MAIN">
+-          <value>
+-            <State />
+-          </value>
+-        </entry>
+-      </map>
+-    </option>
+-  </component>
+-  <component name="VcsManagerConfiguration">
+-    <MESSAGE value="atualizacao string sinopse" />
+-    <MESSAGE value="Formato de string" />
+-    <MESSAGE value="Calculadora IMC" />
+-    <MESSAGE value="Calculo da media" />
+-    <MESSAGE value="Desafio aula 2: Valor em dolares" />
+-    <MESSAGE value="Desafio aula 2: Preço de Produto" />
+-    <MESSAGE value="Desafio aula 2: Média" />
+-    <MESSAGE value="Desafio aula 2: Concatenaçao de letra com palavra" />
+-    <MESSAGE value="Desafio aula 2: Conversao de double para int" />
+-    <MESSAGE value="Desafio aula 2: Preço original" />
+-    <MESSAGE value="Desafio aula 2: Conversor de temperatura" />
+-    <MESSAGE value="Atualizacao xml" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Atualizacao xml" />
+-  </component>
+ </project>
+\ No newline at end of file

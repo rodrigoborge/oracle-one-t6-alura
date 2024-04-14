@@ -1,0 +1,45 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"3308b042-8891-4798-86fb-dc8f85965ccd\" name=\"Changes\" comment=\"atualizacao das configs para o macos\">\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Class\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$/..\" />\n  </component>\n  <component name=\"GitHubPullRequestSearchHistory\">{\n  &quot;history&quot;: [\n    {\n      &quot;state&quot;: &quot;OPEN&quot;\n    }\n  ],\n  &quot;lastFilter&quot;: {\n    &quot;state&quot;: &quot;OPEN&quot;\n  }\n}</component>\n  <component name=\"GithubPullRequestsUISettings\">{\n  &quot;selectedUrlAndAccountId&quot;: {\n    &quot;url&quot;: &quot;https://github.com/rodrigoborge/oracle-one-t6-alura.git&quot;,\n    &quot;accountId&quot;: &quot;86e06e50-2d3b-4c0b-a4fd-09f39eed6b5e&quot;\n  }\n}</component>\n  <component name=\"ProjectColorInfo\">{\n  &quot;customColor&quot;: &quot;&quot;,\n  &quot;associatedIndex&quot;: 3\n}</component>\n  <component name=\"ProjectId\" id=\"2ebzs0vMQTXaSfjOY2b6nG6X6Iy\" />\n  <component name=\"ProjectLevelVcsManager\">\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\n  </component>\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"Application.Estudos.executor\": \"Run\",\n    \"Application.Main.executor\": \"Run\",\n    \"Application.Perfil.executor\": \"Run\",\n    \"Application.PrimeiraClasse.executor\": \"Run\",\n    \"Application.ScreenMatch.executor\": \"Run\",\n    \"Application.Soma.executor\": \"Run\",\n    \"Application.Subtracao.executor\": \"Run\",\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"git-widget-placeholder\": \"master\",\n    \"ignore.virus.scanning.warn.message\": \"true\",\n    \"kotlin-language-version-configured\": \"true\",\n    \"last_opened_file_path\": \"/Users/rodrigoborge/Documents/GitHub/oracle-one-t6-alura/PrimeiraClasse\",\n    \"node.js.detected.package.eslint\": \"true\",\n    \"node.js.detected.package.tslint\": \"true\",\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\n    \"nodejs_package_manager_path\": \"npm\",\n    \"settings.editor.selected.configurable\": \"preferences.pluginManager\",\n    \"vue.rearranger.settings.migration\": \"true\"\n  }\n}]]></component>\n  <component name=\"SharedIndexes\">\n    <attachedChunks>\n      <set>\n        <option value=\"bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240\" />\n        <option value=\"bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240\" />\n      </set>\n    </attachedChunks>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"3308b042-8891-4798-86fb-dc8f85965ccd\" name=\"Changes\" comment=\"\" />\n      <created>1712188270465</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1712188270465</updated>\n      <workItem from=\"1712188271574\" duration=\"453000\" />\n      <workItem from=\"1712188734185\" duration=\"2361000\" />\n      <workItem from=\"1712280211712\" duration=\"1244000\" />\n      <workItem from=\"1712472430829\" duration=\"508000\" />\n      <workItem from=\"1712472998754\" duration=\"155000\" />\n      <workItem from=\"1712473162703\" duration=\"508000\" />\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"rodando no macos\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1712472610789</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1712472610789</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"atualizacao das configs para o macos\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1712472634880</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1712472634880</updated>\n    </task>\n    <task id=\"LOCAL-00003\" summary=\"atualizacao das configs para o macos\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1712473059212</created>\n      <option name=\"number\" value=\"00003\" />\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1712473059212</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"4\" />\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"rodando no macos\" />\n    <MESSAGE value=\"atualizacao das configs para o macos\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"atualizacao das configs para o macos\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 78f184db599c70daf57a941bab960b8fd7a6cbdc)
++++ b/.idea/workspace.xml	(date 1712626650622)
+@@ -70,7 +70,7 @@
+     "node.js.selected.package.eslint": "(autodetect)",
+     "node.js.selected.package.tslint": "(autodetect)",
+     "nodejs_package_manager_path": "npm",
+-    "settings.editor.selected.configurable": "preferences.pluginManager",
++    "settings.editor.selected.configurable": "settings.sync",
+     "vue.rearranger.settings.migration": "true"
+   }
+ }]]></component>
+@@ -96,6 +96,8 @@
+       <workItem from="1712472430829" duration="508000" />
+       <workItem from="1712472998754" duration="155000" />
+       <workItem from="1712473162703" duration="508000" />
++      <workItem from="1712473688417" duration="88000" />
++      <workItem from="1712626570586" duration="80000" />
+     </task>
+     <task id="LOCAL-00001" summary="rodando no macos">
+       <option name="closed" value="true" />
+@@ -121,7 +123,15 @@
+       <option name="project" value="LOCAL" />
+       <updated>1712473059212</updated>
+     </task>
+-    <option name="localTasksCounter" value="4" />
++    <task id="LOCAL-00004" summary="atualizacao das configs para o macos">
++      <option name="closed" value="true" />
++      <created>1712473705361</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1712473705361</updated>
++    </task>
++    <option name="localTasksCounter" value="5" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">

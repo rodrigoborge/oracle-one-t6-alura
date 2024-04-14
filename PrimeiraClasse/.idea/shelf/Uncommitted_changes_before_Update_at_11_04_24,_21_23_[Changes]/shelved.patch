@@ -1,0 +1,126 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"3308b042-8891-4798-86fb-dc8f85965ccd\" name=\"Changes\" comment=\"\">\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/ScreenMatch.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/ScreenMatch.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/Soma.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/Soma.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/Subtracao.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/Subtracao.java\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Class\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$/..\" />\n  </component>\n  <component name=\"HighlightingSettingsPerFile\">\n    <setting file=\"file://$PROJECT_DIR$/src/ScreenMatch.java\" root0=\"FORCE_HIGHLIGHTING\" />\n  </component>\n  <component name=\"ProjectColorInfo\">{\n  &quot;customColor&quot;: &quot;&quot;,\n  &quot;associatedIndex&quot;: 3\n}</component>\n  <component name=\"ProjectId\" id=\"2ebzs0vMQTXaSfjOY2b6nG6X6Iy\" />\n  <component name=\"ProjectLevelVcsManager\">\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\n  </component>\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"Application.Estudos.executor\": \"Run\",\n    \"Application.Main.executor\": \"Run\",\n    \"Application.Perfil.executor\": \"Run\",\n    \"Application.PrimeiraClasse.executor\": \"Run\",\n    \"Application.ScreenMatch.executor\": \"Run\",\n    \"Application.Soma.executor\": \"Run\",\n    \"Application.Subtracao.executor\": \"Run\",\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"git-widget-placeholder\": \"master\",\n    \"ignore.virus.scanning.warn.message\": \"true\",\n    \"kotlin-language-version-configured\": \"true\",\n    \"node.js.detected.package.eslint\": \"true\",\n    \"node.js.detected.package.tslint\": \"true\",\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\n    \"nodejs_package_manager_path\": \"npm\",\n    \"settings.editor.selected.configurable\": \"preferences.pluginManager\",\n    \"vue.rearranger.settings.migration\": \"true\"\n  }\n}]]></component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"3308b042-8891-4798-86fb-dc8f85965ccd\" name=\"Changes\" comment=\"\" />\n      <created>1712188270465</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1712188270465</updated>\n      <workItem from=\"1712188271574\" duration=\"453000\" />\n      <workItem from=\"1712188734185\" duration=\"2361000\" />\n      <workItem from=\"1712280211712\" duration=\"1404000\" />\n      <workItem from=\"1712620235434\" duration=\"59000\" />\n      <workItem from=\"1712620303665\" duration=\"832000\" />\n      <workItem from=\"1712621457699\" duration=\"190000\" />\n    </task>\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision d27667cb2553a86de82ca900d3f28e51053b00d5)
++++ b/.idea/workspace.xml	(date 1712881365527)
+@@ -4,11 +4,8 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="3308b042-8891-4798-86fb-dc8f85965ccd" name="Changes" comment="">
++    <list default="true" id="3308b042-8891-4798-86fb-dc8f85965ccd" name="Changes" comment="atualizacao das configs para o macos">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/ScreenMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ScreenMatch.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/Soma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Soma.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/Subtracao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Subtracao.java" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -25,9 +22,22 @@
+   <component name="Git.Settings">
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+   </component>
+-  <component name="HighlightingSettingsPerFile">
+-    <setting file="file://$PROJECT_DIR$/src/ScreenMatch.java" root0="FORCE_HIGHLIGHTING" />
+-  </component>
++  <component name="GitHubPullRequestSearchHistory">{
++  &quot;history&quot;: [
++    {
++      &quot;state&quot;: &quot;OPEN&quot;
++    }
++  ],
++  &quot;lastFilter&quot;: {
++    &quot;state&quot;: &quot;OPEN&quot;
++  }
++}</component>
++  <component name="GithubPullRequestsUISettings">{
++  &quot;selectedUrlAndAccountId&quot;: {
++    &quot;url&quot;: &quot;https://github.com/rodrigoborge/oracle-one-t6-alura.git&quot;,
++    &quot;accountId&quot;: &quot;86e06e50-2d3b-4c0b-a4fd-09f39eed6b5e&quot;
++  }
++}</component>
+   <component name="ProjectColorInfo">{
+   &quot;customColor&quot;: &quot;&quot;,
+   &quot;associatedIndex&quot;: 3
+@@ -54,15 +64,24 @@
+     "git-widget-placeholder": "master",
+     "ignore.virus.scanning.warn.message": "true",
+     "kotlin-language-version-configured": "true",
++    "last_opened_file_path": "/Users/rodrigoborge/Documents/GitHub/oracle-one-t6-alura/PrimeiraClasse",
+     "node.js.detected.package.eslint": "true",
+     "node.js.detected.package.tslint": "true",
+     "node.js.selected.package.eslint": "(autodetect)",
+     "node.js.selected.package.tslint": "(autodetect)",
+     "nodejs_package_manager_path": "npm",
+-    "settings.editor.selected.configurable": "preferences.pluginManager",
++    "settings.editor.selected.configurable": "settings.sync",
+     "vue.rearranger.settings.migration": "true"
+   }
+ }]]></component>
++  <component name="SharedIndexes">
++    <attachedChunks>
++      <set>
++        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
++        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
++      </set>
++    </attachedChunks>
++  </component>
+   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+   <component name="TaskManager">
+     <task active="true" id="Default" summary="Default task">
+@@ -73,14 +92,45 @@
+       <updated>1712188270465</updated>
+       <workItem from="1712188271574" duration="453000" />
+       <workItem from="1712188734185" duration="2361000" />
+-      <workItem from="1712280211712" duration="1404000" />
+-      <workItem from="1712620235434" duration="59000" />
+-      <workItem from="1712620303665" duration="832000" />
+-      <workItem from="1712621457699" duration="190000" />
++      <workItem from="1712280211712" duration="1244000" />
++      <workItem from="1712472430829" duration="508000" />
++      <workItem from="1712472998754" duration="155000" />
++      <workItem from="1712473162703" duration="508000" />
++      <workItem from="1712881316760" duration="49000" />
++    </task>
++    <task id="LOCAL-00001" summary="rodando no macos">
++      <option name="closed" value="true" />
++      <created>1712472610789</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1712472610789</updated>
++    </task>
++    <task id="LOCAL-00002" summary="atualizacao das configs para o macos">
++      <option name="closed" value="true" />
++      <created>1712472634880</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1712472634880</updated>
++    </task>
++    <task id="LOCAL-00003" summary="atualizacao das configs para o macos">
++      <option name="closed" value="true" />
++      <created>1712473059212</created>
++      <option name="number" value="00003" />
++      <option name="presentableId" value="LOCAL-00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1712473059212</updated>
+     </task>
++    <option name="localTasksCounter" value="4" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+     <option name="version" value="3" />
+   </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="rodando no macos" />
++    <MESSAGE value="atualizacao das configs para o macos" />
++    <option name="LAST_COMMIT_MESSAGE" value="atualizacao das configs para o macos" />
++  </component>
+ </project>
+\ No newline at end of file
