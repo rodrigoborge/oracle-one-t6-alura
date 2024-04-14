@@ -4,8 +4,8 @@ public class Loop {
     public static void main(String[] args) {
         Scanner leitura = new Scanner(System.in);
         double mediaAvaliacao = 0;
-        double nota = 0;
-        double mediaTotal = 0;
+        double nota;
+        double mediaTotal;
 
         for (int i = 0; i < 3; i++) {
             System.out.println("De 0 a 10, como você avalia este filme?");
