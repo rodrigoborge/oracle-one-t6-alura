@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3308b042-8891-4798-86fb-dc8f85965ccd" name="Changes" comment="Atualizaçao do workspace" />
+    <list default="true" id="3308b042-8891-4798-86fb-dc8f85965ccd" name="Changes" comment="Atualizacao xml">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JogoAdivinhacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JogoAdivinhacao.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,49 +40,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.CalculaIMC.executor": "Run",
-    "Application.Condicional.executor": "Run",
-    "Application.ConversorTemperatura.executor": "Run",
-    "Application.DesaficoPrecoOriginal.executor": "Run",
-    "Application.DesafioCasting.executor": "Run",
-    "Application.DesafioConcat.executor": "Run",
-    "Application.DesafioMaiorMenor.executor": "Run",
-    "Application.DesafioMedia.executor": "Run",
-    "Application.DesafioNumeroPositivo.executor": "Run",
-    "Application.DesafioPrecoProduto.executor": "Run",
-    "Application.DesafioValorDolares.executor": "Run",
-    "Application.DiaSemana.executor": "Run",
-    "Application.Enquanto.executor": "Run",
-    "Application.Estudos.executor": "Run",
-    "Application.FormadoString.executor": "Run",
-    "Application.ImparPar.executor": "Run",
-    "Application.JogoAdivinhacao.executor": "Run",
-    "Application.Leitura.executor": "Run",
-    "Application.Loop.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Perfil.executor": "Run",
-    "Application.PrimeiraClasse.executor": "Run",
-    "Application.ScreenMatch.executor": "Run",
-    "Application.Soma.executor": "Run",
-    "Application.Subtracao.executor": "Run",
-    "Application.Tabuada.executor": "Run",
-    "Application.conversorTemperatura.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.CalculaIMC.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConversorTemperatura.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DesaficoPrecoOriginal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DesafioCasting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DesafioConcat.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DesafioMedia.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DesafioPrecoProduto.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DesafioValorDolares.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Estudos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FormadoString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Perfil.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimeiraClasse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ScreenMatch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Soma.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Subtracao.executor&quot;: &quot;Run&quot;,
+    &quot;Application.conversorTemperatura.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -95,12 +96,7 @@
       <workItem from="1712620303665" duration="832000" />
       <workItem from="1712621457699" duration="190000" />
       <workItem from="1712707022406" duration="2819000" />
-      <workItem from="1712875625968" duration="4104000" />
-      <workItem from="1712880557831" duration="58000" />
-      <workItem from="1712880623814" duration="359000" />
-      <workItem from="1712880994363" duration="275000" />
-      <workItem from="1712958499976" duration="2976000" />
-      <workItem from="1713059477756" duration="6315000" />
+      <workItem from="1712875625968" duration="3733000" />
     </task>
     <task id="LOCAL-00001" summary="atualizacao string sinopse">
       <option name="closed" value="true" />
@@ -214,151 +210,7 @@
       <option name="project" value="LOCAL" />
       <updated>1712879351340</updated>
     </task>
-    <task id="LOCAL-00015" summary="Desafio aula 2: atualizaçao soma valor1 + valor2 com casting para  int">
-      <option name="closed" value="true" />
-      <created>1712879440716</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1712879440716</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Desafio aula 2: exercicio média">
-      <option name="closed" value="true" />
-      <created>1712879614646</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1712879614646</updated>
-    </task>
-    <task id="LOCAL-00017" summary="Atualizaçao xml">
-      <option name="closed" value="true" />
-      <created>1712879625962</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1712879625962</updated>
-    </task>
-    <task id="LOCAL-00018" summary="Aula 04: Condicional IF">
-      <option name="closed" value="true" />
-      <created>1712960588301</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1712960588301</updated>
-    </task>
-    <task id="LOCAL-00019" summary="Aula 04: Dia da Semana com switch case">
-      <option name="closed" value="true" />
-      <created>1712960611385</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1712960611385</updated>
-    </task>
-    <task id="LOCAL-00020" summary="Aula 04: Entrada de dados">
-      <option name="closed" value="true" />
-      <created>1712960629527</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1712960629527</updated>
-    </task>
-    <task id="LOCAL-00021" summary="Aula 04: Dia da semana com entrada de dados">
-      <option name="closed" value="true" />
-      <created>1712960861250</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1712960861250</updated>
-    </task>
-    <task id="LOCAL-00022" summary="Aula 04: Leitura de dados teclado">
-      <option name="closed" value="true" />
-      <created>1712961075327</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1712961075327</updated>
-    </task>
-    <task id="LOCAL-00023" summary="Aula 04: atualização xml">
-      <option name="closed" value="true" />
-      <created>1712961097963</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1712961097963</updated>
-    </task>
-    <task id="LOCAL-00024" summary="Aula 04: atualização print">
-      <option name="closed" value="true" />
-      <created>1712961273100</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1712961273100</updated>
-    </task>
-    <task id="LOCAL-00025" summary="Aula 07: While">
-      <option name="closed" value="true" />
-      <created>1713062871399</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1713062871400</updated>
-    </task>
-    <task id="LOCAL-00026" summary="Aula 07: Loop">
-      <option name="closed" value="true" />
-      <created>1713062878473</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1713062878473</updated>
-    </task>
-    <task id="LOCAL-00027" summary="Aula 07: Jogo adivinhação">
-      <option name="closed" value="true" />
-      <created>1713062891051</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1713062891051</updated>
-    </task>
-    <task id="LOCAL-00028" summary="Desafio: Crie um programa que solicite ao usuário digitar um número. Se o número for positivo, exiba &quot;Número positivo&quot;, caso contrário, exiba &quot;Número negativo&quot;.">
-      <option name="closed" value="true" />
-      <created>1713063316104</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1713063316104</updated>
-    </task>
-    <task id="LOCAL-00029" summary="Desafio: Peça ao usuário para inserir dois números inteiros. Compare os números e imprima uma mensagem indicando se são iguais, diferentes, o primeiro é maior ou o segundo é maior.">
-      <option name="closed" value="true" />
-      <created>1713064865230</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1713064865230</updated>
-    </task>
-    <task id="LOCAL-00030" summary="Desafio: Crie um programa que solicite ao usuário um número e exiba a tabuada desse número de 1 a 10.">
-      <option name="closed" value="true" />
-      <created>1713065749058</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1713065749058</updated>
-    </task>
-    <task id="LOCAL-00031" summary="Desafio: Crie um programa que solicite ao usuário a entrada de um número inteiro. Verifique se o número é par ou ímpar e exiba uma mensagem correspondente.">
-      <option name="closed" value="true" />
-      <created>1713066050495</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1713066050495</updated>
-    </task>
-    <task id="LOCAL-00032" summary="Atualizaçao do workspace">
-      <option name="closed" value="true" />
-      <created>1713066258631</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1713066258631</updated>
-    </task>
-    <option name="localTasksCounter" value="33" />
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -376,6 +228,11 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="atualizacao string sinopse" />
+    <MESSAGE value="Formato de string" />
+    <MESSAGE value="Calculadora IMC" />
+    <MESSAGE value="Calculo da media" />
+    <MESSAGE value="Desafio aula 2: Valor em dolares" />
     <MESSAGE value="Desafio aula 2: Preço de Produto" />
     <MESSAGE value="Desafio aula 2: Média" />
     <MESSAGE value="Desafio aula 2: Concatenaçao de letra com palavra" />
@@ -383,28 +240,6 @@
     <MESSAGE value="Desafio aula 2: Preço original" />
     <MESSAGE value="Desafio aula 2: Conversor de temperatura" />
     <MESSAGE value="Atualizacao xml" />
-    <MESSAGE value="Desafio aula 2: atualizaçao soma valor1 + valor2 com casting para  int" />
-    <MESSAGE value="Desafio aula 2: exercicio média" />
-    <MESSAGE value="Atualizaçao xml" />
-    <MESSAGE value="Aula 04: Condicional IF" />
-    <MESSAGE value="Aula 04: Dia da Semana com switch case" />
-    <MESSAGE value="Aula 04: Entrada de dados" />
-    <MESSAGE value="Aula 04: Dia da semana com entrada de dados" />
-    <MESSAGE value="Aula 04: Leitura de dados teclado" />
-    <MESSAGE value="Aula 04: atualização xml" />
-    <MESSAGE value="Aula 04: atualização print" />
-    <MESSAGE value="Aula 07: While" />
-    <MESSAGE value="Aula 07: Loop" />
-    <MESSAGE value="Aula 07: Jogo adivinhação" />
-    <MESSAGE value="Desafio: Crie um programa que solicite ao usuário digitar um número. Se o número for positivo, exiba &quot;Número positivo&quot;, caso contrário, exiba &quot;Número negativo&quot;." />
-    <MESSAGE value="Desafio: Peça ao usuário para inserir dois números inteiros. Compare os números e imprima uma mensagem indicando se são iguais, diferentes, o primeiro é maior ou o segundo é maior." />
-    <MESSAGE value="Desafio: Crie um programa que solicite ao usuário um número e exiba a tabuada desse número de 1 a 10." />
-    <MESSAGE value="Desafio: Crie um programa que solicite ao usuário a entrada de um número inteiro. Verifique se o número é par ou ímpar e exiba uma mensagem correspondente." />
-    <MESSAGE value="Atualizaçao do workspace" />
-    <option name="LAST_COMMIT_MESSAGE" value="Atualizaçao do workspace" />
-  </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
+    <option name="LAST_COMMIT_MESSAGE" value="Atualizacao xml" />
   </component>
 </project>
