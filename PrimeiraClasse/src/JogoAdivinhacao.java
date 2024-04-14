@@ -17,7 +17,7 @@ public class JogoAdivinhacao {
             System.out.println("O numero é menor que: " + chute);
         } else if (chute < numeroAleatorio)
             System.out.println("O número é maior que: " + chute);
-        else if(chute == numeroAleatorio) {
+        else {
             System.out.println("Parabéns!!! Você acertou!");
             break;
         }
