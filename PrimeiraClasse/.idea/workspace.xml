@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3308b042-8891-4798-86fb-dc8f85965ccd" name="Changes" comment="Desafio: Crie um programa que solicite ao usuário um número e exiba a tabuada desse número de 1 a 10.">
-      <change afterPath="$PROJECT_DIR$/src/ImparPar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3308b042-8891-4798-86fb-dc8f85965ccd" name="Changes" comment="Atualizaçao do workspace" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,7 +100,7 @@
       <workItem from="1712880623814" duration="359000" />
       <workItem from="1712880994363" duration="275000" />
       <workItem from="1712958499976" duration="2976000" />
-      <workItem from="1713059477756" duration="5941000" />
+      <workItem from="1713059477756" duration="6315000" />
     </task>
     <task id="LOCAL-00001" summary="atualizacao string sinopse">
       <option name="closed" value="true" />
@@ -345,7 +342,23 @@
       <option name="project" value="LOCAL" />
       <updated>1713065749058</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Desafio: Crie um programa que solicite ao usuário a entrada de um número inteiro. Verifique se o número é par ou ímpar e exiba uma mensagem correspondente.">
+      <option name="closed" value="true" />
+      <created>1713066050495</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1713066050495</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Atualizaçao do workspace">
+      <option name="closed" value="true" />
+      <created>1713066258631</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1713066258631</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -363,8 +376,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Calculo da media" />
-    <MESSAGE value="Desafio aula 2: Valor em dolares" />
     <MESSAGE value="Desafio aula 2: Preço de Produto" />
     <MESSAGE value="Desafio aula 2: Média" />
     <MESSAGE value="Desafio aula 2: Concatenaçao de letra com palavra" />
@@ -388,7 +399,9 @@
     <MESSAGE value="Desafio: Crie um programa que solicite ao usuário digitar um número. Se o número for positivo, exiba &quot;Número positivo&quot;, caso contrário, exiba &quot;Número negativo&quot;." />
     <MESSAGE value="Desafio: Peça ao usuário para inserir dois números inteiros. Compare os números e imprima uma mensagem indicando se são iguais, diferentes, o primeiro é maior ou o segundo é maior." />
     <MESSAGE value="Desafio: Crie um programa que solicite ao usuário um número e exiba a tabuada desse número de 1 a 10." />
-    <option name="LAST_COMMIT_MESSAGE" value="Desafio: Crie um programa que solicite ao usuário um número e exiba a tabuada desse número de 1 a 10." />
+    <MESSAGE value="Desafio: Crie um programa que solicite ao usuário a entrada de um número inteiro. Verifique se o número é par ou ímpar e exiba uma mensagem correspondente." />
+    <MESSAGE value="Atualizaçao do workspace" />
+    <option name="LAST_COMMIT_MESSAGE" value="Atualizaçao do workspace" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
