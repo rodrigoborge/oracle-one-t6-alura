@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3308b042-8891-4798-86fb-dc8f85965ccd" name="Changes" comment="Aula 04: atualização xml">
-      <change beforePath="$PROJECT_DIR$/src/Leitura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leitura.java" afterDir="false" />
+    <list default="true" id="3308b042-8891-4798-86fb-dc8f85965ccd" name="Changes" comment="Desafio: Crie um programa que solicite ao usuário um número e exiba a tabuada desse número de 1 a 10.">
+      <change afterPath="$PROJECT_DIR$/src/ImparPar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,19 +48,26 @@
     "Application.DesaficoPrecoOriginal.executor": "Run",
     "Application.DesafioCasting.executor": "Run",
     "Application.DesafioConcat.executor": "Run",
+    "Application.DesafioMaiorMenor.executor": "Run",
     "Application.DesafioMedia.executor": "Run",
+    "Application.DesafioNumeroPositivo.executor": "Run",
     "Application.DesafioPrecoProduto.executor": "Run",
     "Application.DesafioValorDolares.executor": "Run",
     "Application.DiaSemana.executor": "Run",
+    "Application.Enquanto.executor": "Run",
     "Application.Estudos.executor": "Run",
     "Application.FormadoString.executor": "Run",
+    "Application.ImparPar.executor": "Run",
+    "Application.JogoAdivinhacao.executor": "Run",
     "Application.Leitura.executor": "Run",
+    "Application.Loop.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Perfil.executor": "Run",
     "Application.PrimeiraClasse.executor": "Run",
     "Application.ScreenMatch.executor": "Run",
     "Application.Soma.executor": "Run",
     "Application.Subtracao.executor": "Run",
+    "Application.Tabuada.executor": "Run",
     "Application.conversorTemperatura.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -71,7 +79,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "settings.sync",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -94,7 +102,8 @@
       <workItem from="1712880557831" duration="58000" />
       <workItem from="1712880623814" duration="359000" />
       <workItem from="1712880994363" duration="275000" />
-      <workItem from="1712958499976" duration="2717000" />
+      <workItem from="1712958499976" duration="2976000" />
+      <workItem from="1713059477756" duration="5941000" />
     </task>
     <task id="LOCAL-00001" summary="atualizacao string sinopse">
       <option name="closed" value="true" />
@@ -280,7 +289,63 @@
       <option name="project" value="LOCAL" />
       <updated>1712961097963</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Aula 04: atualização print">
+      <option name="closed" value="true" />
+      <created>1712961273100</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1712961273100</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Aula 07: While">
+      <option name="closed" value="true" />
+      <created>1713062871399</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1713062871400</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Aula 07: Loop">
+      <option name="closed" value="true" />
+      <created>1713062878473</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1713062878473</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Aula 07: Jogo adivinhação">
+      <option name="closed" value="true" />
+      <created>1713062891051</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1713062891051</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Desafio: Crie um programa que solicite ao usuário digitar um número. Se o número for positivo, exiba &quot;Número positivo&quot;, caso contrário, exiba &quot;Número negativo&quot;.">
+      <option name="closed" value="true" />
+      <created>1713063316104</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1713063316104</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Desafio: Peça ao usuário para inserir dois números inteiros. Compare os números e imprima uma mensagem indicando se são iguais, diferentes, o primeiro é maior ou o segundo é maior.">
+      <option name="closed" value="true" />
+      <created>1713064865230</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1713064865230</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Desafio: Crie um programa que solicite ao usuário um número e exiba a tabuada desse número de 1 a 10.">
+      <option name="closed" value="true" />
+      <created>1713065749058</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1713065749058</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -298,9 +363,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="atualizacao string sinopse" />
-    <MESSAGE value="Formato de string" />
-    <MESSAGE value="Calculadora IMC" />
     <MESSAGE value="Calculo da media" />
     <MESSAGE value="Desafio aula 2: Valor em dolares" />
     <MESSAGE value="Desafio aula 2: Preço de Produto" />
@@ -319,6 +381,17 @@
     <MESSAGE value="Aula 04: Dia da semana com entrada de dados" />
     <MESSAGE value="Aula 04: Leitura de dados teclado" />
     <MESSAGE value="Aula 04: atualização xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aula 04: atualização xml" />
+    <MESSAGE value="Aula 04: atualização print" />
+    <MESSAGE value="Aula 07: While" />
+    <MESSAGE value="Aula 07: Loop" />
+    <MESSAGE value="Aula 07: Jogo adivinhação" />
+    <MESSAGE value="Desafio: Crie um programa que solicite ao usuário digitar um número. Se o número for positivo, exiba &quot;Número positivo&quot;, caso contrário, exiba &quot;Número negativo&quot;." />
+    <MESSAGE value="Desafio: Peça ao usuário para inserir dois números inteiros. Compare os números e imprima uma mensagem indicando se são iguais, diferentes, o primeiro é maior ou o segundo é maior." />
+    <MESSAGE value="Desafio: Crie um programa que solicite ao usuário um número e exiba a tabuada desse número de 1 a 10." />
+    <option name="LAST_COMMIT_MESSAGE" value="Desafio: Crie um programa que solicite ao usuário um número e exiba a tabuada desse número de 1 a 10." />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
