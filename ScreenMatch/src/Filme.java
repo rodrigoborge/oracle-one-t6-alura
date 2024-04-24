@@ -7,6 +7,12 @@ public class Filme {
         int duracaoFilme;
 
         //Métodos
+
+        //Usamos o GET quando queremos pegar um valor, assim como usamos set quando queremos atribuir um valor.
+        int getTotalAvaliacoes(){
+                return totalAvaliacoes;
+        }
+
         void exibeFichaTecnica(){
                 System.out.println("Nome do filme: " + nome);
                 System.out.println("Ano de lançamento: " + anoLancamento);

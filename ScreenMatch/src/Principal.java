@@ -9,7 +9,9 @@ public class Principal {
         meuFilme.avaliaFilme(8);
         meuFilme.avaliaFilme(5);
         meuFilme.avaliaFilme(10);
-        System.out.println("Total de avaliações: " + meuFilme.totalAvaliacoes);
+        meuFilme.avaliaFilme(8);
+        meuFilme.avaliaFilme(9);
+        System.out.println("Total de avaliações: " + meuFilme.getTotalAvaliacoes());
         System.out.printf("Avaliação: %.1f", meuFilme.mediaAvaliacoes());
     }
 }
