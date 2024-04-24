@@ -1,15 +1,23 @@
 public class Musica {
+    String tituloMusica;
     String nomeArtista;
-    String nomeAlbum;
     int anoLancamento;
-    int quantidadeFaixas;
+    double numAvaliacao;
+    double somaAvaliacao;
+
 
     //Metodo
+    void avaliaMusica(double avaliacao){
+        somaAvaliacao += avaliacao;
+        numAvaliacao++;
+    }
+
+    double mediaAvaliacao(){return somaAvaliacao / numAvaliacao;}
+
     boolean exibeFichaTecnica(){
-        System.out.println("Nome do Artista: " + nomeArtista);
-        System.out.println("Nome do Álbum: " + nomeAlbum);
+        System.out.println("Título da Música: " + tituloMusica);
+        System.out.println("Nome do Álbum: " + nomeArtista);
         System.out.println("Ano de Lançamento: " + anoLancamento);
-        System.out.println("Quantidade de faixas: " + quantidadeFaixas);;
         return false;
     }
 }
