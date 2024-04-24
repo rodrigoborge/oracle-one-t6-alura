@@ -3,9 +3,9 @@ import screenmatch.modelos.Filme;
 public class Principal {
     public static void main(String[] args) {
         Filme meuFilme = new Filme();
-        meuFilme.nome = "O Poderoso Chefão";
-        meuFilme.anoLancamento = 1970;
-        meuFilme.duracaoFilme = 180;
+        meuFilme.setNome("O Poderoso Chefão");
+        meuFilme.setAnoLancamento(1970);
+        meuFilme.setDuracaoFilme(180);
 
         meuFilme.exibeFichaTecnica();
         meuFilme.avaliaFilme(8);
