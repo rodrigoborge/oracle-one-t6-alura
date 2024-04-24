@@ -1,18 +1,30 @@
 package screenmatch.modelos;
 
 public class Filme {
-        public String nome;
-        public int anoLancamento;
-        public boolean incluidoPlano;
+        private String nome;
+        private int anoLancamento;
+        private boolean incluidoPlano;
         private double somaAvaliacao;
         private int totalAvaliacoes;
-        public int duracaoFilme;
+        private int duracaoFilme;
 
         //Métodos
 
         //Usamos o GET quando queremos pegar um valor, assim como usamos set quando queremos atribuir um valor.
         public int getTotalAvaliacoes(){
                 return totalAvaliacoes;
+        }
+
+        public void setNome(String nome) {
+                this.nome = nome;
+        }
+
+        public void setAnoLancamento(int anoLancamento) {
+                this.anoLancamento = anoLancamento;
+        }
+
+        public void setDuracaoFilme(int duracaoFilme) {
+                this.duracaoFilme = duracaoFilme;
         }
 
         public void exibeFichaTecnica(){
