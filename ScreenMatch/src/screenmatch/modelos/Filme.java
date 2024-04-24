@@ -1,31 +1,33 @@
+package screenmatch.modelos;
+
 public class Filme {
-        String nome;
-        int anoLancamento;
-        boolean incluidoPlano;
+        public String nome;
+        public int anoLancamento;
+        public boolean incluidoPlano;
         private double somaAvaliacao;
         private int totalAvaliacoes;
-        int duracaoFilme;
+        public int duracaoFilme;
 
         //Métodos
 
         //Usamos o GET quando queremos pegar um valor, assim como usamos set quando queremos atribuir um valor.
-        int getTotalAvaliacoes(){
+        public int getTotalAvaliacoes(){
                 return totalAvaliacoes;
         }
 
-        void exibeFichaTecnica(){
+        public void exibeFichaTecnica(){
                 System.out.println("Nome do filme: " + nome);
                 System.out.println("Ano de lançamento: " + anoLancamento);
                 System.out.println("Incluído no plano: " + incluidoPlano);
                 System.out.println("Duração do filme: " + duracaoFilme);
         }
 
-        void avaliaFilme(double nota){
+        public void avaliaFilme(double nota){
                 somaAvaliacao += nota;
                 totalAvaliacoes++;
         }
 
-        double mediaAvaliacoes(){
+        public double mediaAvaliacoes(){
                 return somaAvaliacao / totalAvaliacoes;
         }
 }
