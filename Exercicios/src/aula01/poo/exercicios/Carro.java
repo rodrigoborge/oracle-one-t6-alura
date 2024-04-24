@@ -1,3 +1,5 @@
+package aula01.poo.exercicios;
+
 public class Carro {
     String modeloCarro;
     String montadora;

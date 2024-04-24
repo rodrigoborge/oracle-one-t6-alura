@@ -1,3 +1,5 @@
+package aula01.poo.exercicios;
+
 public class Pessoa {
     String nomeCompleto;
     String sexo;

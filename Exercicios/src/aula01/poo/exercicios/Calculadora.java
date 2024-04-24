@@ -1,3 +1,5 @@
+package aula01.poo.exercicios;
+
 public class Calculadora {
     double numero1;
 

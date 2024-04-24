@@ -1,3 +1,5 @@
+package aula01.poo.exercicios;
+
 public class Musica {
     String tituloMusica;
     String nomeArtista;

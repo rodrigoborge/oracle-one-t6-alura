@@ -1,3 +1,5 @@
+package aula01.poo.exercicios;
+
 public class PrincipalCarro {
     public static void main(String[] args) {
         Carro fichaCarro = new Carro();

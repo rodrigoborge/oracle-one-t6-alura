@@ -1,3 +1,5 @@
+package aula01.poo.exercicios;
+
 public class PrincipalMusica {
     public static void main(String[] args) {
         Musica dadosMusica =  new Musica();
