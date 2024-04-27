@@ -1,4 +1,5 @@
 import screenmatch.modelos.Filme;
+import screenmatch.modelos.Serie;
 
 public class Principal {
     public static void main(String[] args) {
@@ -15,5 +16,18 @@ public class Principal {
         meuFilme.avaliaFilme(9);
         System.out.println("Total de avaliações: " + meuFilme.getTotalAvaliacoes());
         System.out.printf("Avaliação: %.1f", meuFilme.mediaAvaliacoes());
+
+        System.out.println("\n\n------------------------------\n\n");
+
+        Serie lost = new Serie();
+        lost.setNome("Lost");
+        lost.setAnoLancamento(2004);
+        lost.setTemporadas(10);
+        lost.setEpisodiosPorTemporada(10);
+        lost.setMinutosPorEpisodio(50);
+        lost.exibeFichaTecnica();
+        System.out.println("Duração em minutos para maratonar Lost: " + lost.getDuracaoFilme());
+
+
     }
 }
