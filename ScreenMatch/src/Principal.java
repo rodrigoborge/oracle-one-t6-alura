@@ -1,5 +1,6 @@
 import screenmatch.modelos.Filme;
 import screenmatch.modelos.Serie;
+import screenmatch.modelos.calculos.CalculadoraDeTempo;
 
 public class Principal {
     public static void main(String[] args) {
@@ -28,6 +29,22 @@ public class Principal {
         lost.exibeFichaTecnica();
         System.out.println("Duração em minutos para maratonar Lost: " + lost.getDuracaoFilme());
 
+        System.out.println("\n\n------------------------------\n\n");
+
+        Filme outroFilme = new Filme();
+        outroFilme.setNome("Avatar");
+        outroFilme.setAnoLancamento(2023);
+        outroFilme.setDuracaoFilme(200);
+
+        CalculadoraDeTempo calculadora = new CalculadoraDeTempo();
+        calculadora.inclui(meuFilme);
+        System.out.println(calculadora.getTempoTotal());
+
+        calculadora.inclui(outroFilme);
+        System.out.println(calculadora.getTempoTotal());
+
+        calculadora.inclui(lost);
+        System.out.println(calculadora.getTempoTotal());
 
     }
 }
