@@ -1,9 +1,11 @@
+import screenmatch.calculos.FiltroRecomendacao;
+import screenmatch.modelos.Episodios;
 import screenmatch.modelos.Filme;
 import screenmatch.modelos.Serie;
 import screenmatch.calculos.CalculadoraDeTempo;
 
 public class Principal {
-    public static void main(String[] args) {
+    public static <FlitroRecomendacao> void main(String[] args) {
         Filme meuFilme = new Filme();
         meuFilme.setNome("O Poderoso Chefão");
         meuFilme.setAnoLancamento(1970);
@@ -45,6 +47,15 @@ public class Principal {
 
         calculadora.inclui(lost);
         System.out.println(calculadora.getTempoTotal());
+
+        FlitroRecomendacao filtro = (FlitroRecomendacao) new FiltroRecomendacao();
+        ((FiltroRecomendacao) filtro).filtra(meuFilme);
+
+        Episodios episodios = new Episodios();
+        episodios.setNumero(1);
+        episodios.setSerie(lost);
+        episodios.setTotalVisualizacoes(300);
+        ((FiltroRecomendacao) filtro).filtra(episodios);
 
     }
 }
