@@ -1,12 +1,23 @@
 package screenmatch.modelos;
 
-public class Episodios {
+import screenmatch.calculos.Classificavel;
+
+public class Episodios implements Classificavel {
     private int numero;
     private String nome;
     private Serie serie;
+    private int totalVisualizacoes;
 
     public int getNumero() {
         return numero;
+    }
+
+    public int getTotalVisualizacoes() {
+        return totalVisualizacoes;
+    }
+
+    public void setTotalVisualizacoes(int totalVisualizacoes) {
+        this.totalVisualizacoes = totalVisualizacoes;
     }
 
     public void setNumero(int numero) {
@@ -27,5 +38,14 @@ public class Episodios {
 
     public void setSerie(Serie serie) {
         this.serie = serie;
+    }
+
+    @Override
+    public int getClassificacao() {
+        if (totalVisualizacoes > 100) {
+            return 4;
+        } else {
+            return 2;
+        }
     }
 }
