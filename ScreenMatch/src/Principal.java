@@ -1,6 +1,6 @@
 import screenmatch.modelos.Filme;
 import screenmatch.modelos.Serie;
-import screenmatch.modelos.calculos.CalculadoraDeTempo;
+import screenmatch.calculos.CalculadoraDeTempo;
 
 public class Principal {
     public static void main(String[] args) {
