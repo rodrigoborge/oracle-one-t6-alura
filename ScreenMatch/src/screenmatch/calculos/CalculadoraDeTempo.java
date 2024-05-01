@@ -1,6 +1,6 @@
-package screenmatch.modelos.calculos;
-//import screenmatch.modelos.Filme;
-//import screenmatch.modelos.Serie;
+package screenmatch.calculos;
+//import screenmatch.modelos.modelos.Filme;
+//import screenmatch.modelos.modelos.Serie;
 import screenmatch.modelos.Titulo;
 
 public class CalculadoraDeTempo {
