@@ -18,6 +18,13 @@ public class PrincipalPoduto {
 
         System.out.println("O tamanho da lista é " + listaProdutos.size());
         System.out.println("O produto na posiçao 4 é o: " + listaProdutos.get(3).getNome());
+        System.out.println(listaProdutos);
+
+        Produto produtoNovo = new Produto("Novo Produto",233,34);
+        System.out.println(produtoNovo);
+
+        ProdutoPerecivel produtoPerecivel = new ProdutoPerecivel("Produto Perecível",10.95,3,"23-12-2025");
+        System.out.println(produtoPerecivel);
 
     }
 }
