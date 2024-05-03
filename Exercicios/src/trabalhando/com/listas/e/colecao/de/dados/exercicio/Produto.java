@@ -1,5 +1,7 @@
 package trabalhando.com.listas.e.colecao.de.dados.exercicio;
 
+import java.util.ArrayList;
+
 public class Produto {
     private String nome;
     private double preco;
@@ -9,6 +11,11 @@ public class Produto {
         this.nome = nome;
         this.preco = preco;
         this.quantidade = quantidade;
+    }
+
+    @Override
+    public String toString() {
+        return "\nProduto: [nome= " + nome + ", preço= " + preco + ", quantidade= " + quantidade + "]";
     }
 
     public String getNome() {
