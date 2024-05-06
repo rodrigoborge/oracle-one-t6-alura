@@ -7,14 +7,15 @@ import br.com.alura.screenmatch.modelos.Titulo;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Collections;
+import java.util.Comparator;
 
 public class PrincipalComListas {
     public static void main(String[] args) {
         Filme meuFilme = new Filme("O poderoso chefão", 1970);
         meuFilme.avalia(9);
-        Filme outroFilme = new Filme("Avatar", 2000);
+        Filme outroFilme = new Filme("Avatar", 2007);
         outroFilme.avalia(6);
-        var filmeDoPaulo = new Filme("Dogville", 1990);
+        var filmeDoPaulo = new Filme("Dogville", 2003);
         filmeDoPaulo.avalia(10);
         Serie lost = new Serie("Lost", 2000);
 
@@ -44,6 +45,10 @@ public class PrincipalComListas {
 
         Collections.sort(lista);
         System.out.println("Lista de titulos ordenados" + lista);
+
+        lista.sort(Comparator.comparing(Titulo::getAnoDeLancamento));
+
+        System.out.println("Ordenação por ano: " + lista);
 
     }
 }
