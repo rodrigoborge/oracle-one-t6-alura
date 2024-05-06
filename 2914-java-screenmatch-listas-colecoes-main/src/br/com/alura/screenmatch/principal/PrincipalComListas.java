@@ -17,7 +17,7 @@ public class PrincipalComListas {
 
         Filme f1 = filmeDoPaulo;
 
-        List<Titulo> lista = new ArrayList<>();
+        List<Titulo> lista = new LinkedList<>();
         lista.add(filmeDoPaulo);
         lista.add(meuFilme);
         lista.add(outroFilme);
@@ -30,7 +30,7 @@ public class PrincipalComListas {
             }
         }
 
-        List<String> buscaPorArtista = new ArrayList<>();
+        List<String> buscaPorArtista = new LinkedList<>();
         buscaPorArtista.add("Adam Sandler");
         buscaPorArtista.add("Paulo");
         buscaPorArtista.add("Jacqueline");
