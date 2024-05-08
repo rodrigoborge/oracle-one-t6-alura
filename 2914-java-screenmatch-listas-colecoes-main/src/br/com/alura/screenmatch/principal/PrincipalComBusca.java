@@ -37,9 +37,15 @@ public class PrincipalComBusca {
 
         System.out.println(meuTituloOMDB);
 
-        Titulo meuTitulo = new Titulo(meuTituloOMDB);
+        try {
+            Titulo meuTitulo = new Titulo(meuTituloOMDB);
+            System.out.println("***** MEU TÍTULO ***** \n" + meuTitulo);
+        } catch (NumberFormatException e) {
+            System.out.println("Aconteceu um erro: ");
+            System.out.println(e.getMessage());
+        }
 
-        System.out.println("***** MEU TÍTULO ***** \n" + meuTitulo);
+        System.out.println("O programa finalizou corretamente!");
 
     }
 }
