@@ -32,7 +32,7 @@ public class PrincipalComBusca {
         System.out.println(json);
 
         Gson gson = new GsonBuilder().setFieldNamingPolicy(FieldNamingPolicy.UPPER_CAMEL_CASE).create();
-//        Titulo meuTitulo = gson.fromJson(json, Titulo.class);
+//      Titulo meuTitulo = gson.fromJson(json, Titulo.class);
         TituloOMDB meuTituloOMDB = gson.fromJson(json, TituloOMDB.class);
 
         System.out.println(meuTituloOMDB);
