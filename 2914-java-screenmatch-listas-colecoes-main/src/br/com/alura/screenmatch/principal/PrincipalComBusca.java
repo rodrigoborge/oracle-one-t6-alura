@@ -7,6 +7,8 @@ import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 
 import br.com.alura.screenmatch.modelos.Titulo;
+
+import java.io.FileWriter;
 import java.io.IOException;
 import java.net.URI;
 import java.net.http.HttpClient;
@@ -35,11 +37,14 @@ public class PrincipalComBusca {
 
             Gson gson = new GsonBuilder().setFieldNamingPolicy(FieldNamingPolicy.UPPER_CAMEL_CASE).create();
             TituloOMDB meuTituloOMDB = gson.fromJson(json, TituloOMDB.class);
-
             System.out.println(meuTituloOMDB);
-
             Titulo meuTitulo = new Titulo(meuTituloOMDB);
             System.out.println("***** MEU TÍTULO ***** \n" + meuTitulo);
+
+            FileWriter escrita = new FileWriter("filmes.txt");
+            escrita.write(meuTitulo.toString());
+            escrita.close();
+
         } catch (NumberFormatException e) {
             System.out.println("Aconteceu um erro: ");
             System.out.println(e.getMessage());
