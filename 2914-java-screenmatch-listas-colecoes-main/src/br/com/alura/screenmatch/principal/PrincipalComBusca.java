@@ -1,5 +1,6 @@
 package br.com.alura.screenmatch.principal;
 
+import br.com.alura.screenmatch.excecao.ErroConversaoDeAnoException;
 import br.com.alura.screenmatch.modelos.TituloOMDB;
 import com.google.gson.FieldNamingPolicy;
 import com.google.gson.Gson;
@@ -19,7 +20,7 @@ public class PrincipalComBusca {
         System.out.println("Digite um filme para busca: ");
         var busca = leitura.nextLine();
 
-        String endereco = "https://www.omdbapi.com/?t=" + busca + "&apikey=4a00064d";
+        String endereco = "https://www.omdbapi.com/?t=" + busca.replace(" ", "+") + "&apikey=4a00064d";
         try{
             HttpClient client = HttpClient.newHttpClient();
             HttpRequest request = HttpRequest.newBuilder()
@@ -45,8 +46,8 @@ public class PrincipalComBusca {
         } catch (IllegalArgumentException e) {
             System.out.println("Erro de argumento na busca, verifique o endereço.");
 
-        } catch (Exception e) {
-            System.out.println("Aconteceu algo");
+        } catch (ErroConversaoDeAnoException e) {
+            System.out.println(e.getMessage());
         }
 
         System.out.println("O programa finalizou corretamente!");
