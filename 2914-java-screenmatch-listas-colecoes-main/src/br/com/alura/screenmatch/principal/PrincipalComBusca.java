@@ -20,29 +20,31 @@ public class PrincipalComBusca {
         var busca = leitura.nextLine();
 
         String endereco = "https://www.omdbapi.com/?t=" + busca + "&apikey=4a00064d";
+        try{
+            HttpClient client = HttpClient.newHttpClient();
+            HttpRequest request = HttpRequest.newBuilder()
+                    .uri(URI.create(endereco))
+                    .build();
+            HttpResponse<String> response = client
+                    .send(request, HttpResponse.BodyHandlers.ofString());
 
-        HttpClient client = HttpClient.newHttpClient();
-        HttpRequest request = HttpRequest.newBuilder()
-                .uri(URI.create(endereco))
-                .build();
-        HttpResponse<String> response = client
-                .send(request, HttpResponse.BodyHandlers.ofString());
+            String json = response.body();
 
-        String json = response.body();
+            System.out.println(json);
 
-        System.out.println(json);
+            Gson gson = new GsonBuilder().setFieldNamingPolicy(FieldNamingPolicy.UPPER_CAMEL_CASE).create();
+            TituloOMDB meuTituloOMDB = gson.fromJson(json, TituloOMDB.class);
 
-        Gson gson = new GsonBuilder().setFieldNamingPolicy(FieldNamingPolicy.UPPER_CAMEL_CASE).create();
-        TituloOMDB meuTituloOMDB = gson.fromJson(json, TituloOMDB.class);
+            System.out.println(meuTituloOMDB);
 
-        System.out.println(meuTituloOMDB);
-
-        try {
             Titulo meuTitulo = new Titulo(meuTituloOMDB);
             System.out.println("***** MEU TÍTULO ***** \n" + meuTitulo);
         } catch (NumberFormatException e) {
             System.out.println("Aconteceu um erro: ");
             System.out.println(e.getMessage());
+        } catch (IllegalArgumentException e) {
+            System.out.println("Erro de argumento na busca, verifique o endereço.");
+
         }
 
         System.out.println("O programa finalizou corretamente!");
