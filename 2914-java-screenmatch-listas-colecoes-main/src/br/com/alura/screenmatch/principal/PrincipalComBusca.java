@@ -45,6 +45,8 @@ public class PrincipalComBusca {
         } catch (IllegalArgumentException e) {
             System.out.println("Erro de argumento na busca, verifique o endereço.");
 
+        } catch (Exception e) {
+            System.out.println("Aconteceu algo");
         }
 
         System.out.println("O programa finalizou corretamente!");
